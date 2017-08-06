@@ -3677,7 +3677,7 @@ OFL_OUTLIER_RADAR_NOISE_PARAM_TBL | 1.5 |  1.5 |  1.5 |  0.01 | 1.5 |  1.5 |
 --                                +-----------------------------------+
 --                                |  Outlier noise coefficient factor |
 --                                |-----------------------------------|
---                                |       Trusty coef /long hypo      |
+--     FFFF                           |       Trusty coef /long hypo      |
 --                                |-----------------------------------|
 --                                | period | noise | bound | longhypo |
 --                                |--------|-------|-------|----------|
